@@ -1,1 +1,1 @@
-Daymark- Habbit Tracker
+🎬 FluxStream - Enterprise-grade video streaming platform with chunked uploads, automatic transcoding, and adaptive HLS playback. Resume interrupted uploads, stream at any quality, deliver Netflix-level experiences. Built for scale.
