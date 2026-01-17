@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Daymark",
-  description: "Habbit Tracker",
+  title: "FluxStream",
+  description: "Video Streaming",
 };
 
 export default function RootLayout({
